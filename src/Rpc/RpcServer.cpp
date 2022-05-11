@@ -1247,7 +1247,7 @@ bool RpcServer::on_get_index(const COMMAND_HTTP::request& req, COMMAND_HTTP::res
 <g>
 <circle fill="#000000" cx="1250000" cy="1250000" r="1214062" />
 <path fill="#D83232" d=""/>
-</g></svg></svg></td><td>)" "Parsec Node" &bull; version)";
+</g></svg></svg></td><td>)" "Parsec Node" R"(d &bull; version)";
   const std::string index_finish = " </p></body></html>";
   const std::time_t uptime = std::time(nullptr) - m_core.getStartTime();
   const std::string uptime_str = std::to_string((unsigned int)floor(uptime / 60.0 / 60.0 / 24.0)) + "d " + std::to_string((unsigned int)floor(fmod((uptime / 60.0 / 60.0), 24.0))) + "h "
