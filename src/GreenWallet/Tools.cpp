@@ -10,6 +10,8 @@
 #include <boost/algorithm/string.hpp>
 
 #include <cmath>
+#include <chrono>
+#include <thread>
 
 #include <Common/Base58.h>
 #include <Common/StringTools.h>
