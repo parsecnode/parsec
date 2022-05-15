@@ -1,8 +1,8 @@
 // Copyright (c) 2012-2016, The CryptoNote developers, The Bytecoin developers
 //
-// This file is part of parsec.
+// This file is part of Parsec.
 //
-// parsec is free software: you can redistribute it and/or modify
+// Parsec is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Lesser General Public License as published by
 // the Free Software Foundation, either version 3 of the License, or
 // (at your option) any later version.
@@ -13,7 +13,7 @@
 // GNU Lesser General Public License for more details.
 //
 // You should have received a copy of the GNU Lesser General Public License
-// along with parsec.  If not, see <http://www.gnu.org/licenses/>.
+// along with Parsec.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
