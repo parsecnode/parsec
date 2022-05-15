@@ -17,6 +17,7 @@
 
 #pragma once
 
+#include <limits>
 #include <algorithm>
 #include <vector>
 #include "StringTools.h"
