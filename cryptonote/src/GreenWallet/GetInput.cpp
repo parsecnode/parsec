@@ -10,7 +10,8 @@
 #include <boost/algorithm/string.hpp>
 
 #include "linenoise.hpp"
-
+#include <chrono>
+#include <thread>
 #include <GreenWallet/Sync.h>
 
 /* Note: this is not portable, it only works with terminals that support ANSI
